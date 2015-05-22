@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7948AEB-2F84-4623-8A76-FDF8A5B6AD61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CatYears</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4275D81E1B98C04B4A2BF1D1884C89B3326A9E14</key>
+		<string>https://github.com/kremhen/CatYears</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CatYears.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4275D81E1B98C04B4A2BF1D1884C89B3326A9E14</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kremhen/CatYears</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4275D81E1B98C04B4A2BF1D1884C89B3326A9E14</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4275D81E1B98C04B4A2BF1D1884C89B3326A9E14</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CatYears</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         var enteredage=age.text.toInt()
         var catyears=enteredage! * 7
         Output.text="The age is \(catyears) "
-        
+     // second commit
         
     }
     override func viewDidLoad() {
